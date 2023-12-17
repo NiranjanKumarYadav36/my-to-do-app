@@ -1,4 +1,4 @@
-FILEPATH = r"C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\ToDo\todos.txt"
+FILEPATH = "todos.txt"
 
 
 # parameter
